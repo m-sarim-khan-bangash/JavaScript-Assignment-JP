@@ -123,3 +123,9 @@ console.log(fullName);
 // Question 6
 var input = prompt("Enter a number", "5");
 alert(input);
+
+
+var phone_manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony" , "Haier"]
+
+document.write("<select>Manufactures</select> <br> <option>phone_manufacturers[0]</option>
+")
